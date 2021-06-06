@@ -1,5 +1,5 @@
 ### Hi there 👋
-![:name](https://count.getloli.com/get/@:Girlfriend-not-found)
+![:name](https://count.getloli.com/get/@:Girlfriend-not-found?theme=rule34)
 <!--
 **Girlfriend-not-found/Girlfriend-not-found** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
