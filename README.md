@@ -5,12 +5,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Girlfriend-not-found&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on 摸鱼
-- 🌱 I’m currently learning php(best lauguage!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)
+- 🔭 I’m currently working on GameDes
 - 👯 I’m looking to collaborate on me
 - 🤔 I’m looking for help with npy
-- 💬 Ask me about 有没有对象
-- 📫 How to reach me: 731504768
+- 📫 How to reach me: email me on 0xac001do9@gmail.com
 
 <div align="center">
 	<br>
